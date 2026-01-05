@@ -1,6 +1,8 @@
 {
   "alerts": [],
-  "source": "HungaroMet Nonprofit Zrt.",
-  "updated": "2026-01-05 03:07",
-  "file": "wahx20260104_2000.xml.zip"
+  "updated": "2026-01-05 05:09",
+  "files": [
+    "wahx20260105_0443.xml.zip",
+    "wbhx20260105_0450.xml.zip"
+  ]
 }
