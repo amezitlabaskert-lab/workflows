@@ -1,1 +1,6 @@
-{"error": "404 Client Error: Not Found for url: https://odp.met.hu/weather/warnings/wadata/wahx/", "updated": "2026-01-05 03:02"}
+{
+  "alerts": [],
+  "source": "HungaroMet Nonprofit Zrt.",
+  "updated": "2026-01-05 03:07",
+  "file": "wahx20260104_2000.xml.zip"
+}
